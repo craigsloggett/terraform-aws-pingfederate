@@ -1,4 +1,4 @@
-# Terraform AWS PingFederate
+# PingFederate Terraform Module
 
 A Terraform module to deploy PingFederate on AWS behind an NLB with TLS termination via ACM.
 
